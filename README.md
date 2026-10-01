@@ -91,6 +91,7 @@ The dashboard displays:
 Used to retrieve product information such as product name, category, unit price and cost price from the Product Master table.
 
 ### Revenue Calculation
+Profit = Revenue - Cost Price × Quantity
 
 ```text
 Revenue = Quantity × Unit Price
